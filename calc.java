@@ -6,8 +6,7 @@ public class Calculator {
         for (int n : numbers) {
             sum += n;
         }
-
-        // BUG: integer division truncates the result
+        
         return sum / numbers.length;
     }
 
