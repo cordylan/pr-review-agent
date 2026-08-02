@@ -24,3 +24,5 @@ GUpdate 18
 
 This is a new line of text to outline the configurration of the node.
 This is another line for the PR.
+
+This is a line with a spelling errrror.
